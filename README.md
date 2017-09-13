@@ -1,5 +1,5 @@
 
-## Leap Years*
+## Leap Years
 <img src="https://s3.amazonaws.com/after-school-assets/leap.gif" align="right" hspace="10">
 
 #1 Write a method called is_leapYear? that takes in one input and returns true if the given year is indeed a leap year. Hint: Leap years are years divisible by four (like 1984 and 2004). However, years divisible by 100 are _not_ leap years (such as 1800 and 1900) unless they are ALSO divisible by 400 (like 1600 and 2000). 
